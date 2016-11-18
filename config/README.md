@@ -66,4 +66,11 @@ explicitely.
 Furthermore, the `image` type has to be defined. Otherwise the
 application won't start.
 
+### list of hardcoded attributs and their associated types
+
+metadata
+shortDescription
+identifier
+etc
+
 
